@@ -1,0 +1,6342 @@
+[
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-mumbai-indians-final-1237181/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 15,
+                "balls": 13,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 115
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 65,
+                "balls": 50,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 130
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 56,
+                "balls": 38,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 147
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 5,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 9,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Kagiso Rabada ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Mumbai Indians INNINGS (target: 157 runs from 20 overs)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 68,
+                "balls": 51,
+                "fours": 5,
+                "sixes": 4,
+                "sr": 133
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 20,
+                "balls": 12,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 166
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 19,
+                "balls": 20,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 95
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 33,
+                "balls": 19,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 173
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 9,
+                "balls": 4,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 225
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 3,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 60
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-sunrisers-hyderabad-qualifier-2-1237180/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 38,
+                "balls": 27,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 140
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 78,
+                "balls": 50,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 156
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 21,
+                "balls": 20,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 105
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 42,
+                "balls": 22,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 190
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            "Sunrisers Hyderabad INNINGS (target: 190 runs from 20 overs)",
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 17,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 141
+            },
+            {
+                "playerName": "David Warner (c)",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 21,
+                "balls": 14,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 67,
+                "balls": 45,
+                "fours": 5,
+                "sixes": 4,
+                "sr": 148
+            },
+            {
+                "playerName": "Jason Holder ",
+                "runs": 11,
+                "balls": 15,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 73
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 33,
+                "balls": 16,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 206
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 11,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 157
+            },
+            {
+                "playerName": "Shreevats Goswami †",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shahbaz Nadeem ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Sandeep Sharma ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-sunrisers-hyderabad-eliminator-1237178/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 6,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 85
+            },
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 1,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 16
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 32,
+                "balls": 30,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 106
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 56,
+                "balls": 43,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 130
+            },
+            {
+                "playerName": "Moeen Ali ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 8,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 61
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 5,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Navdeep Saini ",
+                "runs": 9,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 112
+            },
+            {
+                "playerName": "Mohammed Siraj ",
+                "runs": 10,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 142
+            },
+            "Sunrisers Hyderabad INNINGS (target: 132 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 17,
+                "balls": 17,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Shreevats Goswami †",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 24,
+                "balls": 21,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 114
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 50,
+                "balls": 44,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 113
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 7,
+                "balls": 14,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Jason Holder ",
+                "runs": 24,
+                "balls": 20,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 120
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-mumbai-indians-qualifier-1-1237177/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 40,
+                "balls": 25,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 160
+            },
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 51,
+                "balls": 38,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 134
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 55,
+                "balls": 30,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 183
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 13,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 130
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 37,
+                "balls": 14,
+                "fours": 0,
+                "sixes": 5,
+                "sr": 264
+            },
+            "Delhi Capitals INNINGS (target: 201 runs from 20 overs)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 12,
+                "balls": 8,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 65,
+                "balls": 46,
+                "fours": 6,
+                "sixes": 3,
+                "sr": 141
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 3,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 42,
+                "balls": 33,
+                "fours": 2,
+                "sixes": 3,
+                "sr": 127
+            },
+            {
+                "playerName": "Daniel Sams ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Kagiso Rabada ",
+                "runs": 15,
+                "balls": 15,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Anrich Nortje ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-mumbai-indians-56th-match-1216495/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 25,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 192
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 36,
+                "balls": 29,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 124
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 33,
+                "balls": 30,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 110
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Saurabh Tiwary ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 41,
+                "balls": 25,
+                "fours": 2,
+                "sixes": 4,
+                "sr": 164
+            },
+            {
+                "playerName": "Nathan Coulter-Nile ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "James Pattinson ",
+                "runs": 4,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 80
+            },
+            {
+                "playerName": "Dhawal Kulkarni ",
+                "runs": 3,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 150
+            },
+            "Sunrisers Hyderabad INNINGS (target: 150 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 85,
+                "balls": 58,
+                "fours": 10,
+                "sixes": 1,
+                "sr": 146
+            },
+            {
+                "playerName": "Wriddhiman Saha †",
+                "runs": 58,
+                "balls": 45,
+                "fours": 7,
+                "sixes": 1,
+                "sr": 128
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-royal-challengers-bangalore-55th-match-1216505/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Josh Philippe ",
+                "runs": 12,
+                "balls": 17,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 70
+            },
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 50,
+                "balls": 41,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 121
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 29,
+                "balls": 24,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 120
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 35,
+                "balls": 21,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 166
+            },
+            {
+                "playerName": "Chris Morris ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 17,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 154
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Isuru Udana ",
+                "runs": 4,
+                "balls": 2,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 200
+            },
+            {
+                "playerName": "Shahbaz Ahmed ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            "Delhi Capitals INNINGS (target: 153 runs from 20 overs)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 9,
+                "balls": 6,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 54,
+                "balls": 41,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 131
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 60,
+                "balls": 46,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 130
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 7,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 77
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 8,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 114
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 10,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 200
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-rajasthan-royals-54th-match-1216530/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 36,
+                "balls": 24,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 39,
+                "balls": 34,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 114
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 68,
+                "balls": 35,
+                "fours": 5,
+                "sixes": 6,
+                "sr": 194
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 25,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 227
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 15,
+                "balls": 11,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 136
+            },
+            {
+                "playerName": "Kamlesh Nagarkoti ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            "Rajasthan Royals INNINGS (target: 192 runs from 20 overs)",
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 6,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 300
+            },
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 18,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 163
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 4,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 1,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 25
+            },
+            {
+                "playerName": "Jos Buttler ",
+                "runs": 35,
+                "balls": 22,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 159
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 0,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 31,
+                "balls": 27,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 114
+            },
+            {
+                "playerName": "Shreyas Gopal ",
+                "runs": 23,
+                "balls": 23,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 6,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Kartik Tyagi ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Varun Aaron ",
+                "runs": 0,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-kings-xi-punjab-53rd-match-1216506/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 29,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 107
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 26,
+                "balls": 15,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 173
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 12,
+                "balls": 19,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 63
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 2,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 14,
+                "balls": 15,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 93
+            },
+            {
+                "playerName": "Deepak Hooda ",
+                "runs": 62,
+                "balls": 30,
+                "fours": 3,
+                "sixes": 4,
+                "sr": 206
+            },
+            {
+                "playerName": "James Neesham ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Chris Jordan ",
+                "runs": 4,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 80
+            },
+            "Chennai Super Kings INNINGS (target: 154 runs from 20 overs)",
+            {
+                "playerName": "Ruturaj Gaikwad ",
+                "runs": 62,
+                "balls": 49,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 126
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 48,
+                "balls": 34,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 141
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 30,
+                "balls": 30,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 100
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-sunrisers-hyderabad-52nd-match-1216502/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Josh Philippe ",
+                "runs": 32,
+                "balls": 31,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 103
+            },
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 5,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 62
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 7,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 24,
+                "balls": 24,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 21,
+                "balls": 18,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 116
+            },
+            {
+                "playerName": "Gurkeerat Singh Mann ",
+                "runs": 15,
+                "balls": 24,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 62
+            },
+            {
+                "playerName": "Chris Morris ",
+                "runs": 3,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 75
+            },
+            {
+                "playerName": "Isuru Udana ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Mohammed Siraj ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            "Sunrisers Hyderabad INNINGS (target: 121 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 8,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 160
+            },
+            {
+                "playerName": "Wriddhiman Saha †",
+                "runs": 39,
+                "balls": 32,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 121
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 26,
+                "balls": 19,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 136
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 8,
+                "balls": 14,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 8,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 160
+            },
+            {
+                "playerName": "Jason Holder ",
+                "runs": 26,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 260
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-mumbai-indians-51st-match-1216535/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 10,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 90
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 25,
+                "balls": 29,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 86
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 21,
+                "balls": 24,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 87
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 11,
+                "balls": 13,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 84
+            },
+            {
+                "playerName": "Harshal Patel ",
+                "runs": 5,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 55
+            },
+            {
+                "playerName": "Ravichandran Ashwin ",
+                "runs": 12,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 133
+            },
+            {
+                "playerName": "Praveen Dubey ",
+                "runs": 7,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 53
+            },
+            {
+                "playerName": "Kagiso Rabada ",
+                "runs": 12,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 171
+            },
+            "Mumbai Indians INNINGS (target: 111 runs from 20 overs)",
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 72,
+                "balls": 47,
+                "fours": 8,
+                "sixes": 3,
+                "sr": 153
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 26,
+                "balls": 28,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 92
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 12,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 109
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-rajasthan-royals-50th-match-1216537/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 46,
+                "balls": 41,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 112
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 99,
+                "balls": 63,
+                "fours": 6,
+                "sixes": 8,
+                "sr": 157
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 22,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 3,
+                "sr": 220
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 6,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Deepak Hooda ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            "Rajasthan Royals INNINGS (target: 186 runs from 20 overs)",
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 30,
+                "balls": 23,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 130
+            },
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 50,
+                "balls": 26,
+                "fours": 6,
+                "sixes": 3,
+                "sr": 192
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 48,
+                "balls": 25,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 192
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 31,
+                "balls": 20,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 155
+            },
+            {
+                "playerName": "Jos Buttler ",
+                "runs": 22,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 200
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-kolkata-knight-riders-49th-match-1216536/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 26,
+                "balls": 17,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 152
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 87,
+                "balls": 61,
+                "fours": 10,
+                "sixes": 4,
+                "sr": 142
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 7,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Rinku Singh ",
+                "runs": 11,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 15,
+                "balls": 12,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 125
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 21,
+                "balls": 10,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 210
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 3,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 150
+            },
+            "Chennai Super Kings INNINGS (target: 173 runs from 20 overs)",
+            {
+                "playerName": "Shane Watson ",
+                "runs": 14,
+                "balls": 19,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 73
+            },
+            {
+                "playerName": "Ruturaj Gaikwad ",
+                "runs": 72,
+                "balls": 53,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 135
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 38,
+                "balls": 20,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 190
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 1,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 25
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 13,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 92
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 31,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 3,
+                "sr": 281
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-royal-challengers-bangalore-48th-match-1216499/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Josh Philippe ",
+                "runs": 33,
+                "balls": 24,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 137
+            },
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 74,
+                "balls": 45,
+                "fours": 12,
+                "sixes": 1,
+                "sr": 164
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 9,
+                "balls": 14,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 64
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 15,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 125
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 2,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Chris Morris ",
+                "runs": 4,
+                "balls": 2,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 200
+            },
+            {
+                "playerName": "Gurkeerat Singh Mann ",
+                "runs": 14,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 127
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 10,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 166
+            },
+            "Mumbai Indians INNINGS (target: 165 runs from 20 overs)",
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 18,
+                "balls": 19,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 94
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 25,
+                "balls": 19,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 131
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 79,
+                "balls": 43,
+                "fours": 10,
+                "sixes": 3,
+                "sr": 183
+            },
+            {
+                "playerName": "Saurabh Tiwary ",
+                "runs": 5,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 62
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 10,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 17,
+                "balls": 15,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 113
+            },
+            {
+                "playerName": "Kieron Pollard (c)",
+                "runs": 4,
+                "balls": 1,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 400
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-delhi-capitals-47th-match-1216524/full-scorecard",
+        "scorecard": [
+            "Sunrisers Hyderabad INNINGS (20 overs maximum)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 66,
+                "balls": 34,
+                "fours": 8,
+                "sixes": 2,
+                "sr": 194
+            },
+            {
+                "playerName": "Wriddhiman Saha †",
+                "runs": 87,
+                "balls": 45,
+                "fours": 12,
+                "sixes": 2,
+                "sr": 193
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 44,
+                "balls": 31,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 141
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 11,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 110
+            },
+            "Delhi Capitals INNINGS (target: 220 runs from 20 overs)",
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 26,
+                "balls": 19,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 136
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 5,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 16,
+                "balls": 13,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 123
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 36,
+                "balls": 35,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 102
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 7,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 58
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 1,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 25
+            },
+            {
+                "playerName": "Kagiso Rabada ",
+                "runs": 3,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 42
+            },
+            {
+                "playerName": "Ravichandran Ashwin ",
+                "runs": 7,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 140
+            },
+            {
+                "playerName": "Tushar Deshpande ",
+                "runs": 20,
+                "balls": 9,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 222
+            },
+            {
+                "playerName": "Anrich Nortje ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-kings-xi-punjab-46th-match-1216520/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 57,
+                "balls": 45,
+                "fours": 3,
+                "sixes": 4,
+                "sr": 126
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 7,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 175
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 40,
+                "balls": 25,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 160
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 6,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Kamlesh Nagarkoti ",
+                "runs": 6,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 46
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 1,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 12
+            },
+            {
+                "playerName": "Lockie Ferguson ",
+                "runs": 24,
+                "balls": 13,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 184
+            },
+            {
+                "playerName": "Varun Chakravarthy ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Prasidh Krishna ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Kings XI Punjab INNINGS (target: 150 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 28,
+                "balls": 25,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 112
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 66,
+                "balls": 56,
+                "fours": 8,
+                "sixes": 2,
+                "sr": 117
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 51,
+                "balls": 29,
+                "fours": 2,
+                "sixes": 5,
+                "sr": 175
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-mumbai-indians-45th-match-1216541/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 37,
+                "balls": 36,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 102
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 6,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 150
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 40,
+                "balls": 26,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 153
+            },
+            {
+                "playerName": "Saurabh Tiwary ",
+                "runs": 34,
+                "balls": 25,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 136
+            },
+            {
+                "playerName": "Kieron Pollard (c)",
+                "runs": 6,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 150
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 60,
+                "balls": 21,
+                "fours": 2,
+                "sixes": 7,
+                "sr": 285
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 3,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 75
+            },
+            "Rajasthan Royals INNINGS (target: 196 runs from 20 overs)",
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 13,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 118
+            },
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 107,
+                "balls": 60,
+                "fours": 14,
+                "sixes": 3,
+                "sr": 178
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 11,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 137
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 54,
+                "balls": 31,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 174
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-chennai-super-kings-44th-match-1216544/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 22,
+                "balls": 21,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 104
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 15,
+                "balls": 11,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 136
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 50,
+                "balls": 43,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 116
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 39,
+                "balls": 36,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 108
+            },
+            {
+                "playerName": "Moeen Ali ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Chris Morris ",
+                "runs": 2,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 40
+            },
+            {
+                "playerName": "Gurkeerat Singh Mann ",
+                "runs": 2,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 5,
+                "balls": 2,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 250
+            },
+            "Chennai Super Kings INNINGS (target: 146 runs from 20 overs)",
+            {
+                "playerName": "Ruturaj Gaikwad ",
+                "runs": 65,
+                "balls": 51,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 127
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 25,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 192
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 39,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 144
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 19,
+                "balls": 21,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 90
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-sunrisers-hyderabad-43rd-match-1216498/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 27,
+                "balls": 27,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 17,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 121
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 20,
+                "balls": 20,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 32,
+                "balls": 28,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 114
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 12,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 92
+            },
+            {
+                "playerName": "Deepak Hooda ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Chris Jordan ",
+                "runs": 7,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 58
+            },
+            {
+                "playerName": "Murugan Ashwin ",
+                "runs": 4,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Ravi Bishnoi ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Sunrisers Hyderabad INNINGS (target: 127 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 35,
+                "balls": 20,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 175
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 19,
+                "balls": 20,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 95
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 15,
+                "balls": 29,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 51
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 7,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 140
+            },
+            {
+                "playerName": "Vijay Shankar ",
+                "runs": 26,
+                "balls": 27,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 96
+            },
+            {
+                "playerName": "Jason Holder ",
+                "runs": 5,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 62
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 3,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 60
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Sandeep Sharma ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "T Natarajan ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Khaleel Ahmed ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-delhi-capitals-42nd-match-1216497/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 9,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 112
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 81,
+                "balls": 53,
+                "fours": 13,
+                "sixes": 1,
+                "sr": 152
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 13,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 108
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 3,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 64,
+                "balls": 32,
+                "fours": 6,
+                "sixes": 4,
+                "sr": 200
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 17,
+                "balls": 9,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 188
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Delhi Capitals INNINGS (target: 195 runs from 20 overs)",
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 6,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 47,
+                "balls": 38,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 123
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 27,
+                "balls": 33,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 81
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 10,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 200
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 6,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 9,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 128
+            },
+            {
+                "playerName": "Kagiso Rabada ",
+                "runs": 9,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 90
+            },
+            {
+                "playerName": "Ravichandran Ashwin ",
+                "runs": 14,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 107
+            },
+            {
+                "playerName": "Tushar Deshpande ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Anrich Nortje ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-mumbai-indians-41st-match-1216521/full-scorecard",
+        "scorecard": [
+            "Chennai Super Kings INNINGS (20 overs maximum)",
+            {
+                "playerName": "Ruturaj Gaikwad ",
+                "runs": 0,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 1,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 14
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Narayan Jagadeesan ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 16,
+                "balls": 16,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 7,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 116
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 52,
+                "balls": 47,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 110
+            },
+            {
+                "playerName": "Deepak Chahar ",
+                "runs": 0,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shardul Thakur ",
+                "runs": 11,
+                "balls": 20,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 55
+            },
+            {
+                "playerName": "Imran Tahir ",
+                "runs": 13,
+                "balls": 10,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 130
+            },
+            "Mumbai Indians INNINGS (target: 115 runs from 20 overs)",
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 46,
+                "balls": 37,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 124
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 68,
+                "balls": 37,
+                "fours": 6,
+                "sixes": 5,
+                "sr": 183
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-sunrisers-hyderabad-40th-match-1216518/full-scorecard",
+        "scorecard": [
+            "Rajasthan Royals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 19,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 146
+            },
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 30,
+                "balls": 32,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 93
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 36,
+                "balls": 26,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 138
+            },
+            {
+                "playerName": "Jos Buttler ",
+                "runs": 9,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 75
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 19,
+                "balls": 15,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 126
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 20,
+                "balls": 12,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 166
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 16,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 228
+            },
+            "Sunrisers Hyderabad INNINGS (target: 155 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 4,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 10,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 142
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 83,
+                "balls": 47,
+                "fours": 4,
+                "sixes": 8,
+                "sr": 176
+            },
+            {
+                "playerName": "Vijay Shankar ",
+                "runs": 52,
+                "balls": 51,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 101
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-royal-challengers-bangalore-39th-match-1216494/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 1,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 16
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 1,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 20
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Tom Banton ",
+                "runs": 10,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 125
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 4,
+                "balls": 14,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 28
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 30,
+                "balls": 34,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 88
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 4,
+                "balls": 17,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 23
+            },
+            {
+                "playerName": "Kuldeep Yadav ",
+                "runs": 12,
+                "balls": 19,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 63
+            },
+            {
+                "playerName": "Lockie Ferguson ",
+                "runs": 19,
+                "balls": 16,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 118
+            },
+            "Royal Challengers Bangalore INNINGS (target: 85 runs from 20 overs)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 25,
+                "balls": 17,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 147
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 16,
+                "balls": 21,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 76
+            },
+            {
+                "playerName": "Gurkeerat Singh Mann ",
+                "runs": 21,
+                "balls": 26,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 80
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 18,
+                "balls": 17,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 105
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-delhi-capitals-38th-match-1216546/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 7,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 63
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 106,
+                "balls": 61,
+                "fours": 12,
+                "sixes": 3,
+                "sr": 173
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 14,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 116
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 14,
+                "balls": 20,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 70
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 9,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 90
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 10,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 166
+            },
+            "Kings XI Punjab INNINGS (target: 165 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 15,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 136
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 5,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 55
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 29,
+                "balls": 13,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 223
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 53,
+                "balls": 28,
+                "fours": 6,
+                "sixes": 3,
+                "sr": 189
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 32,
+                "balls": 24,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Deepak Hooda ",
+                "runs": 15,
+                "balls": 22,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 68
+            },
+            {
+                "playerName": "James Neesham ",
+                "runs": 10,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 125
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-rajasthan-royals-37th-match-1216533/full-scorecard",
+        "scorecard": [
+            "Chennai Super Kings INNINGS (20 overs maximum)",
+            {
+                "playerName": "Sam Curran ",
+                "runs": 22,
+                "balls": 25,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 88
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 10,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 111
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 8,
+                "balls": 3,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 266
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 13,
+                "balls": 19,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 68
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 28,
+                "balls": 28,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 35,
+                "balls": 30,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 116
+            },
+            {
+                "playerName": "Kedar Jadhav ",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            "Rajasthan Royals INNINGS (target: 126 runs from 20 overs)",
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 19,
+                "balls": 11,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 172
+            },
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 4,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 44
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 26,
+                "balls": 34,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 76
+            },
+            {
+                "playerName": "Jos Buttler ",
+                "runs": 70,
+                "balls": 48,
+                "fours": 7,
+                "sixes": 2,
+                "sr": 145
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-kings-xi-punjab-36th-match-1216517/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 9,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 112
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 53,
+                "balls": 43,
+                "fours": 3,
+                "sixes": 3,
+                "sr": 123
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 0,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 7,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 34,
+                "balls": 30,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 113
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 8,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 200
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 34,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 4,
+                "sr": 283
+            },
+            {
+                "playerName": "Nathan Coulter-Nile ",
+                "runs": 24,
+                "balls": 12,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 200
+            },
+            "Kings XI Punjab INNINGS (target: 177 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 77,
+                "balls": 51,
+                "fours": 7,
+                "sixes": 3,
+                "sr": 150
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 11,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 110
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 24,
+                "balls": 21,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 114
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 24,
+                "balls": 12,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 200
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Deepak Hooda ",
+                "runs": 23,
+                "balls": 16,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 143
+            },
+            {
+                "playerName": "Chris Jordan ",
+                "runs": 13,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 162
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-kolkata-knight-riders-35th-match-1216512/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 36,
+                "balls": 37,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 97
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 23,
+                "balls": 16,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 143
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 29,
+                "balls": 20,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 145
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 9,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 81
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 34,
+                "balls": 23,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 147
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 29,
+                "balls": 14,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 207
+            },
+            "Sunrisers Hyderabad INNINGS (target: 164 runs from 20 overs)",
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 36,
+                "balls": 28,
+                "fours": 7,
+                "sixes": 0,
+                "sr": 128
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 29,
+                "balls": 19,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 152
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "David Warner (c)",
+                "runs": 47,
+                "balls": 33,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 142
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 6,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 85
+            },
+            {
+                "playerName": "Vijay Shankar ",
+                "runs": 7,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 70
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 23,
+                "balls": 15,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 153
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-chennai-super-kings-34th-match-1216509/full-scorecard",
+        "scorecard": [
+            "Chennai Super Kings INNINGS (20 overs maximum)",
+            {
+                "playerName": "Sam Curran ",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 58,
+                "balls": 47,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 123
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 36,
+                "balls": 28,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 128
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 45,
+                "balls": 25,
+                "fours": 1,
+                "sixes": 4,
+                "sr": 180
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 3,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 60
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 33,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 4,
+                "sr": 253
+            },
+            "Delhi Capitals INNINGS (target: 180 runs from 20 overs)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 101,
+                "balls": 58,
+                "fours": 14,
+                "sixes": 1,
+                "sr": 174
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 8,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 80
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 23,
+                "balls": 23,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 24,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 171
+            },
+            {
+                "playerName": "Alex Carey †",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 21,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 3,
+                "sr": 420
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-royal-challengers-bangalore-33rd-match-1216522/full-scorecard",
+        "scorecard": [
+            "Rajasthan Royals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 41,
+                "balls": 22,
+                "fours": 7,
+                "sixes": 1,
+                "sr": 186
+            },
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 15,
+                "balls": 19,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 78
+            },
+            {
+                "playerName": "Sanju Samson †",
+                "runs": 9,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 150
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 57,
+                "balls": 36,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 158
+            },
+            {
+                "playerName": "Jos Buttler ",
+                "runs": 24,
+                "balls": 25,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 96
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 19,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 172
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            "Royal Challengers Bangalore INNINGS (target: 178 runs from 20 overs)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 35,
+                "balls": 37,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 94
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 14,
+                "balls": 11,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 127
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 43,
+                "balls": 32,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 134
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 55,
+                "balls": 22,
+                "fours": 1,
+                "sixes": 6,
+                "sr": 250
+            },
+            {
+                "playerName": "Gurkeerat Singh Mann ",
+                "runs": 19,
+                "balls": 17,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 111
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-kolkata-knight-riders-32nd-match-1216526/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 7,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 77
+            },
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 21,
+                "balls": 23,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 91
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 5,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Dinesh Karthik †",
+                "runs": 4,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Eoin Morgan (c)",
+                "runs": 39,
+                "balls": 29,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 134
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 12,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 133
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 53,
+                "balls": 36,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 147
+            },
+            "Mumbai Indians INNINGS (target: 149 runs from 20 overs)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 35,
+                "balls": 36,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 97
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 78,
+                "balls": 44,
+                "fours": 9,
+                "sixes": 3,
+                "sr": 177
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 10,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 21,
+                "balls": 11,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 190
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-kings-xi-punjab-31st-match-1216531/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 20,
+                "balls": 18,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 111
+            },
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 18,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 150
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 48,
+                "balls": 39,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 123
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 13,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 92
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 23,
+                "balls": 19,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 121
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 2,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 40
+            },
+            {
+                "playerName": "Chris Morris ",
+                "runs": 25,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 312
+            },
+            {
+                "playerName": "Isuru Udana ",
+                "runs": 10,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 200
+            },
+            "Kings XI Punjab INNINGS (target: 172 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 61,
+                "balls": 49,
+                "fours": 1,
+                "sixes": 5,
+                "sr": 124
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 45,
+                "balls": 25,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 180
+            },
+            {
+                "playerName": "Chris Gayle ",
+                "runs": 53,
+                "balls": 45,
+                "fours": 1,
+                "sixes": 5,
+                "sr": 117
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 6,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 600
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-rajasthan-royals-30th-match-1216543/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 57,
+                "balls": 33,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 172
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 2,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 22
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 53,
+                "balls": 43,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 123
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 18,
+                "balls": 19,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 94
+            },
+            {
+                "playerName": "Alex Carey †",
+                "runs": 14,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 107
+            },
+            {
+                "playerName": "Axar Patel ",
+                "runs": 7,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 175
+            },
+            {
+                "playerName": "Ravichandran Ashwin ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Rajasthan Royals INNINGS (target: 162 runs from 20 overs)",
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 41,
+                "balls": 35,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 117
+            },
+            {
+                "playerName": "Jos Buttler †",
+                "runs": 22,
+                "balls": 9,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 244
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 1,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 25
+            },
+            {
+                "playerName": "Sanju Samson ",
+                "runs": 25,
+                "balls": 18,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 138
+            },
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 32,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 118
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 14,
+                "balls": 18,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 77
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 1,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 25
+            },
+            {
+                "playerName": "Shreyas Gopal ",
+                "runs": 6,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 150
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-chennai-super-kings-29th-match-1216528/full-scorecard",
+        "scorecard": [
+            "Chennai Super Kings INNINGS (20 overs maximum)",
+            {
+                "playerName": "Sam Curran ",
+                "runs": 31,
+                "balls": 21,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 147
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 42,
+                "balls": 38,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 110
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 41,
+                "balls": 34,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 120
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 21,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 161
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 25,
+                "balls": 10,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 250
+            },
+            {
+                "playerName": "Dwayne Bravo ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Deepak Chahar ",
+                "runs": 2,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            "Sunrisers Hyderabad INNINGS (target: 168 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 9,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 69
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 23,
+                "balls": 24,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 95
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 4,
+                "balls": 3,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 57,
+                "balls": 39,
+                "fours": 7,
+                "sixes": 0,
+                "sr": 146
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 16,
+                "balls": 18,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 88
+            },
+            {
+                "playerName": "Vijay Shankar ",
+                "runs": 12,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 171
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 14,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 175
+            },
+            {
+                "playerName": "Shahbaz Nadeem ",
+                "runs": 5,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Sandeep Sharma ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "T Natarajan ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-kolkata-knight-riders-28th-match-1216540/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-delhi-capitals-27th-match-1216529/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 4,
+                "balls": 3,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 69,
+                "balls": 52,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 132
+            },
+            {
+                "playerName": "Ajinkya Rahane ",
+                "runs": 15,
+                "balls": 15,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 42,
+                "balls": 33,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 127
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 13,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 162
+            },
+            {
+                "playerName": "Alex Carey †",
+                "runs": 14,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 155
+            },
+            "Mumbai Indians INNINGS (target: 163 runs from 20 overs)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 5,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 41
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 53,
+                "balls": 36,
+                "fours": 4,
+                "sixes": 3,
+                "sr": 147
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 53,
+                "balls": 32,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 165
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 28,
+                "balls": 15,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 186
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 11,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 78
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 12,
+                "balls": 7,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 171
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-rajasthan-royals-26th-match-1216507/full-scorecard",
+        "scorecard": [
+            "Sunrisers Hyderabad INNINGS (20 overs maximum)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 48,
+                "balls": 38,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 126
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 16,
+                "balls": 19,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 84
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 54,
+                "balls": 44,
+                "fours": 2,
+                "sixes": 3,
+                "sr": 122
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 22,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 183
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 15,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 187
+            },
+            "Rajasthan Royals INNINGS (target: 159 runs from 20 overs)",
+            {
+                "playerName": "Ben Stokes ",
+                "runs": 5,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Jos Buttler †",
+                "runs": 16,
+                "balls": 13,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 123
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 5,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Sanju Samson ",
+                "runs": 26,
+                "balls": 25,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 104
+            },
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 18,
+                "balls": 15,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 120
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 42,
+                "balls": 26,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 161
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 45,
+                "balls": 28,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 160
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-royal-challengers-bangalore-25th-match-1216525/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 33,
+                "balls": 34,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 97
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 2,
+                "balls": 9,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 22
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 90,
+                "balls": 52,
+                "fours": 4,
+                "sixes": 4,
+                "sr": 173
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 10,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 22,
+                "balls": 14,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 157
+            },
+            "Chennai Super Kings INNINGS (target: 170 runs from 20 overs)",
+            {
+                "playerName": "Shane Watson ",
+                "runs": 14,
+                "balls": 18,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 77
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 8,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 80
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 42,
+                "balls": 40,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 105
+            },
+            {
+                "playerName": "Narayan Jagadeesan ",
+                "runs": 33,
+                "balls": 28,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 117
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 10,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 166
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 7,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 116
+            },
+            {
+                "playerName": "Dwayne Bravo ",
+                "runs": 7,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 140
+            },
+            {
+                "playerName": "Deepak Chahar ",
+                "runs": 5,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Shardul Thakur ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-kolkata-knight-riders-24th-match-1216523/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 4,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 40
+            },
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 57,
+                "balls": 47,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 121
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Eoin Morgan ",
+                "runs": 24,
+                "balls": 23,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 104
+            },
+            {
+                "playerName": "Dinesh Karthik (c)†",
+                "runs": 58,
+                "balls": 29,
+                "fours": 8,
+                "sixes": 2,
+                "sr": 200
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 5,
+                "balls": 3,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 166
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 5,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 125
+            },
+            "Kings XI Punjab INNINGS (target: 165 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)",
+                "runs": 74,
+                "balls": 58,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 127
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 56,
+                "balls": 39,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 143
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 16,
+                "balls": 10,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 160
+            },
+            {
+                "playerName": "Prabhsimran Singh †",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 10,
+                "balls": 5,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 200
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Chris Jordan ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-delhi-capitals-23rd-match-1216500/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-kings-xi-punjab-22nd-match-1216542/full-scorecard",
+        "scorecard": [
+            "Sunrisers Hyderabad INNINGS (20 overs maximum)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 52,
+                "balls": 40,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 130
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 97,
+                "balls": 55,
+                "fours": 7,
+                "sixes": 6,
+                "sr": 176
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 8,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 114
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 20,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 200
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 12,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 200
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            "Kings XI Punjab INNINGS (target: 202 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)",
+                "runs": 11,
+                "balls": 16,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 68
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 9,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Prabhsimran Singh †",
+                "runs": 11,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 137
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 77,
+                "balls": 37,
+                "fours": 5,
+                "sixes": 7,
+                "sr": 208
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 7,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 58
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 6,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Mujeeb Ur Rahman ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Ravi Bishnoi ",
+                "runs": 6,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 85
+            },
+            {
+                "playerName": "Mohammed Shami ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Sheldon Cottrell ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Arshdeep Singh ",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-chennai-super-kings-21st-match-1216501/full-scorecard",
+        "scorecard": [
+            "Kolkata Knight Riders INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 81,
+                "balls": 51,
+                "fours": 8,
+                "sixes": 3,
+                "sr": 158
+            },
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 11,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 91
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 9,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 90
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 17,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 188
+            },
+            {
+                "playerName": "Eoin Morgan ",
+                "runs": 7,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 70
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Dinesh Karthik (c)†",
+                "runs": 12,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 109
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 17,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 188
+            },
+            {
+                "playerName": "Kamlesh Nagarkoti ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Shivam Mavi ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Varun Chakravarthy ",
+                "runs": 1,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            "Chennai Super Kings INNINGS (target: 168 runs from 20 overs)",
+            {
+                "playerName": "Shane Watson ",
+                "runs": 50,
+                "balls": 40,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 125
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 17,
+                "balls": 10,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 170
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 30,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 111
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 11,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 91
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 17,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 154
+            },
+            {
+                "playerName": "Kedar Jadhav ",
+                "runs": 7,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 58
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 21,
+                "balls": 8,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 262
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-rajasthan-royals-20th-match-1216511/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-delhi-capitals-19th-match-1216519/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-chennai-super-kings-18th-match-1216513/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)",
+                "runs": 63,
+                "balls": 52,
+                "fours": 7,
+                "sixes": 1,
+                "sr": 121
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 26,
+                "balls": 19,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 136
+            },
+            {
+                "playerName": "Mandeep Singh ",
+                "runs": 27,
+                "balls": 16,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 168
+            },
+            {
+                "playerName": "Nicholas Pooran †",
+                "runs": 33,
+                "balls": 17,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 194
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 11,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 157
+            },
+            {
+                "playerName": "Sarfaraz Khan ",
+                "runs": 14,
+                "balls": 9,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 155
+            },
+            "Chennai Super Kings INNINGS (target: 179 runs from 20 overs)",
+            {
+                "playerName": "Shane Watson ",
+                "runs": 83,
+                "balls": 53,
+                "fours": 11,
+                "sixes": 3,
+                "sr": 156
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 87,
+                "balls": 53,
+                "fours": 11,
+                "sixes": 1,
+                "sr": 164
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-sunrisers-hyderabad-17th-match-1216538/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 6,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 120
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 67,
+                "balls": 39,
+                "fours": 4,
+                "sixes": 4,
+                "sr": 171
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 27,
+                "balls": 18,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 31,
+                "balls": 23,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 134
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 28,
+                "balls": 19,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 147
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 25,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 3,
+                "sr": 192
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 20,
+                "balls": 4,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 500
+            },
+            "Sunrisers Hyderabad INNINGS (target: 209 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 60,
+                "balls": 44,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 136
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 25,
+                "balls": 15,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 166
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 30,
+                "balls": 19,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 157
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 3,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 60
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 8,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 114
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 10,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 76
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 20,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 222
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 3,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 42
+            },
+            {
+                "playerName": "Sandeep Sharma ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-kolkata-knight-riders-16th-match-1216515/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 66,
+                "balls": 41,
+                "fours": 4,
+                "sixes": 4,
+                "sr": 160
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 26,
+                "balls": 16,
+                "fours": 2,
+                "sixes": 2,
+                "sr": 162
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 88,
+                "balls": 38,
+                "fours": 7,
+                "sixes": 6,
+                "sr": 231
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 38,
+                "balls": 17,
+                "fours": 5,
+                "sixes": 1,
+                "sr": 223
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Shimron Hetmyer ",
+                "runs": 7,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 140
+            },
+            "Kolkata Knight Riders INNINGS (target: 229 runs from 20 overs)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 28,
+                "balls": 22,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 127
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 3,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 60
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 58,
+                "balls": 35,
+                "fours": 4,
+                "sixes": 4,
+                "sr": 165
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 13,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 162
+            },
+            {
+                "playerName": "Dinesh Karthik (c)†",
+                "runs": 6,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 75
+            },
+            {
+                "playerName": "Eoin Morgan ",
+                "runs": 44,
+                "balls": 18,
+                "fours": 1,
+                "sixes": 5,
+                "sr": 244
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 5,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 125
+            },
+            {
+                "playerName": "Rahul Tripathi ",
+                "runs": 36,
+                "balls": 16,
+                "fours": 3,
+                "sixes": 3,
+                "sr": 225
+            },
+            {
+                "playerName": "Kamlesh Nagarkoti ",
+                "runs": 3,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Shivam Mavi ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-rajasthan-royals-15th-match-1216514/full-scorecard",
+        "scorecard": [
+            "Rajasthan Royals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Jos Buttler †",
+                "runs": 22,
+                "balls": 12,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 183
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 5,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Sanju Samson ",
+                "runs": 4,
+                "balls": 3,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 17,
+                "balls": 22,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 77
+            },
+            {
+                "playerName": "Mahipal Lomror ",
+                "runs": 47,
+                "balls": 39,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 120
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 16,
+                "balls": 18,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 88
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 24,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 3,
+                "sr": 200
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 16,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 160
+            },
+            "Royal Challengers Bangalore INNINGS (target: 155 runs from 20 overs)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 63,
+                "balls": 45,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 140
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 8,
+                "balls": 7,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 114
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 72,
+                "balls": 53,
+                "fours": 7,
+                "sixes": 2,
+                "sr": 135
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 12,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 120
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-sunrisers-hyderabad-14th-match-1216516/full-scorecard",
+        "scorecard": [
+            "Sunrisers Hyderabad INNINGS (20 overs maximum)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 28,
+                "balls": 29,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 96
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 29,
+                "balls": 21,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 138
+            },
+            {
+                "playerName": "Kane Williamson ",
+                "runs": 9,
+                "balls": 13,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 69
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 51,
+                "balls": 26,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 196
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 31,
+                "balls": 24,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 129
+            },
+            {
+                "playerName": "Abdul Samad ",
+                "runs": 8,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 133
+            },
+            "Chennai Super Kings INNINGS (target: 165 runs from 20 overs)",
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 22,
+                "balls": 19,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 115
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 1,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 16
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 8,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 88
+            },
+            {
+                "playerName": "Kedar Jadhav ",
+                "runs": 3,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 30
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 47,
+                "balls": 36,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 130
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 50,
+                "balls": 35,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 142
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 15,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 300
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-mumbai-indians-13th-match-1216503/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 0,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 70,
+                "balls": 45,
+                "fours": 8,
+                "sixes": 3,
+                "sr": 155
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 10,
+                "balls": 7,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 142
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 28,
+                "balls": 32,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 87
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 47,
+                "balls": 20,
+                "fours": 3,
+                "sixes": 4,
+                "sr": 235
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 30,
+                "balls": 11,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 272
+            },
+            "Kings XI Punjab INNINGS (target: 192 runs from 20 overs)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 17,
+                "balls": 19,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 89
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 25,
+                "balls": 18,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 138
+            },
+            {
+                "playerName": "Karun Nair ",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 44,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 162
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 11,
+                "balls": 18,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 61
+            },
+            {
+                "playerName": "James Neesham ",
+                "runs": 7,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Sarfaraz Khan ",
+                "runs": 7,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 87
+            },
+            {
+                "playerName": "Krishnappa Gowtham ",
+                "runs": 22,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 169
+            },
+            {
+                "playerName": "Ravi Bishnoi ",
+                "runs": 1,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 20
+            },
+            {
+                "playerName": "Mohammed Shami ",
+                "runs": 2,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-kolkata-knight-riders-12th-match-1216504/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-sunrisers-hyderabad-11th-match-1216532/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/royal-challengers-bangalore-vs-mumbai-indians-10th-match-1216547/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 54,
+                "balls": 40,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 135
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 52,
+                "balls": 35,
+                "fours": 7,
+                "sixes": 1,
+                "sr": 148
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 3,
+                "balls": 11,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 27
+            },
+            {
+                "playerName": "AB de Villiers †",
+                "runs": 55,
+                "balls": 24,
+                "fours": 4,
+                "sixes": 4,
+                "sr": 229
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 27,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 270
+            },
+            "Mumbai Indians INNINGS (target: 202 runs from 20 overs)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 8,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 14,
+                "balls": 15,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 93
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Ishan Kishan ",
+                "runs": 99,
+                "balls": 58,
+                "fours": 2,
+                "sixes": 9,
+                "sr": 170
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 15,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 115
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 60,
+                "balls": 24,
+                "fours": 3,
+                "sixes": 5,
+                "sr": 250
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 0,
+                "balls": 0,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-kings-xi-punjab-9th-match-1216527/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 69,
+                "balls": 54,
+                "fours": 7,
+                "sixes": 1,
+                "sr": 127
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 106,
+                "balls": 50,
+                "fours": 10,
+                "sixes": 7,
+                "sr": 212
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 13,
+                "balls": 9,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 144
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 25,
+                "balls": 8,
+                "fours": 1,
+                "sixes": 3,
+                "sr": 312
+            },
+            "Rajasthan Royals INNINGS (target: 224 runs from 20 overs)",
+            {
+                "playerName": "Jos Buttler †",
+                "runs": 4,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 57
+            },
+            {
+                "playerName": "Steven Smith (c)",
+                "runs": 50,
+                "balls": 27,
+                "fours": 7,
+                "sixes": 2,
+                "sr": 185
+            },
+            {
+                "playerName": "Sanju Samson ",
+                "runs": 85,
+                "balls": 42,
+                "fours": 4,
+                "sixes": 7,
+                "sr": 202
+            },
+            {
+                "playerName": "Rahul Tewatia ",
+                "runs": 53,
+                "balls": 31,
+                "fours": 0,
+                "sixes": 7,
+                "sr": 170
+            },
+            {
+                "playerName": "Robin Uthappa ",
+                "runs": 9,
+                "balls": 4,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 225
+            },
+            {
+                "playerName": "Jofra Archer ",
+                "runs": 13,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 433
+            },
+            {
+                "playerName": "Riyan Parag ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Tom Curran ",
+                "runs": 4,
+                "balls": 1,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 400
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-sunrisers-hyderabad-8th-match-1216545/full-scorecard",
+        "scorecard": [
+            "Sunrisers Hyderabad INNINGS (20 overs maximum)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 36,
+                "balls": 30,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 120
+            },
+            {
+                "playerName": "Jonny Bairstow ",
+                "runs": 5,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 51,
+                "balls": 38,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 134
+            },
+            {
+                "playerName": "Wriddhiman Saha †",
+                "runs": 30,
+                "balls": 31,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 96
+            },
+            {
+                "playerName": "Mohammad Nabi ",
+                "runs": 11,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 137
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 2,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 66
+            },
+            "Kolkata Knight Riders INNINGS (target: 143 runs from 20 overs)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 70,
+                "balls": 62,
+                "fours": 5,
+                "sixes": 2,
+                "sr": 112
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 26,
+                "balls": 13,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 200
+            },
+            {
+                "playerName": "Dinesh Karthik (c)†",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Eoin Morgan ",
+                "runs": 42,
+                "balls": 29,
+                "fours": 3,
+                "sixes": 2,
+                "sr": 144
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/chennai-super-kings-vs-delhi-capitals-7th-match-1216539/full-scorecard",
+        "scorecard": [
+            "Delhi Capitals INNINGS (20 overs maximum)",
+            {
+                "playerName": "Prithvi Shaw ",
+                "runs": 64,
+                "balls": 43,
+                "fours": 9,
+                "sixes": 1,
+                "sr": 148
+            },
+            {
+                "playerName": "Shikhar Dhawan ",
+                "runs": 35,
+                "balls": 27,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 129
+            },
+            {
+                "playerName": "Rishabh Pant †",
+                "runs": 37,
+                "balls": 25,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 148
+            },
+            {
+                "playerName": "Shreyas Iyer (c)",
+                "runs": 26,
+                "balls": 22,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 118
+            },
+            {
+                "playerName": "Marcus Stoinis ",
+                "runs": 5,
+                "balls": 3,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 166
+            },
+            "Chennai Super Kings INNINGS (target: 176 runs from 20 overs)",
+            {
+                "playerName": "Murali Vijay ",
+                "runs": 10,
+                "balls": 15,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 66
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 14,
+                "balls": 16,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 87
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 43,
+                "balls": 35,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 122
+            },
+            {
+                "playerName": "Ruturaj Gaikwad ",
+                "runs": 5,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Kedar Jadhav ",
+                "runs": 26,
+                "balls": 21,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 123
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 15,
+                "balls": 12,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 125
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 12,
+                "balls": 9,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kings-xi-punjab-vs-royal-challengers-bangalore-6th-match-1216510/full-scorecard",
+        "scorecard": [
+            "Kings XI Punjab INNINGS (20 overs maximum)",
+            {
+                "playerName": "KL Rahul (c)†",
+                "runs": 132,
+                "balls": 69,
+                "fours": 14,
+                "sixes": 7,
+                "sr": 191
+            },
+            {
+                "playerName": "Mayank Agarwal ",
+                "runs": 26,
+                "balls": 20,
+                "fours": 4,
+                "sixes": 0,
+                "sr": 130
+            },
+            {
+                "playerName": "Nicholas Pooran ",
+                "runs": 17,
+                "balls": 18,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 94
+            },
+            {
+                "playerName": "Glenn Maxwell ",
+                "runs": 5,
+                "balls": 6,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 83
+            },
+            {
+                "playerName": "Karun Nair ",
+                "runs": 15,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 187
+            },
+            "Royal Challengers Bangalore INNINGS (target: 207 runs from 20 overs)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 20,
+                "balls": 21,
+                "fours": 3,
+                "sixes": 0,
+                "sr": 95
+            },
+            {
+                "playerName": "Josh Philippe †",
+                "runs": 0,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 1,
+                "balls": 5,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 20
+            },
+            {
+                "playerName": "AB de Villiers ",
+                "runs": 28,
+                "balls": 18,
+                "fours": 4,
+                "sixes": 1,
+                "sr": 155
+            },
+            {
+                "playerName": "Washington Sundar ",
+                "runs": 30,
+                "balls": 27,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 111
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 12,
+                "balls": 12,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 100
+            },
+            {
+                "playerName": "Umesh Yadav ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Navdeep Saini ",
+                "runs": 6,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 85
+            },
+            {
+                "playerName": "Dale Steyn ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Yuzvendra Chahal ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/kolkata-knight-riders-vs-mumbai-indians-5th-match-1216508/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 80,
+                "balls": 54,
+                "fours": 3,
+                "sixes": 6,
+                "sr": 148
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 47,
+                "balls": 28,
+                "fours": 6,
+                "sixes": 1,
+                "sr": 167
+            },
+            {
+                "playerName": "Saurabh Tiwary ",
+                "runs": 21,
+                "balls": 13,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 161
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 18,
+                "balls": 13,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 138
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 13,
+                "balls": 7,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 185
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            "Kolkata Knight Riders INNINGS (target: 196 runs from 20 overs)",
+            {
+                "playerName": "Shubman Gill ",
+                "runs": 7,
+                "balls": 11,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 63
+            },
+            {
+                "playerName": "Sunil Narine ",
+                "runs": 9,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 1,
+                "sr": 90
+            },
+            {
+                "playerName": "Dinesh Karthik (c)†",
+                "runs": 30,
+                "balls": 23,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 130
+            },
+            {
+                "playerName": "Nitish Rana ",
+                "runs": 24,
+                "balls": 18,
+                "fours": 2,
+                "sixes": 1,
+                "sr": 133
+            },
+            {
+                "playerName": "Eoin Morgan ",
+                "runs": 16,
+                "balls": 20,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 80
+            },
+            {
+                "playerName": "Andre Russell ",
+                "runs": 11,
+                "balls": 11,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Nikhil Naik ",
+                "runs": 1,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 33
+            },
+            {
+                "playerName": "Pat Cummins ",
+                "runs": 33,
+                "balls": 12,
+                "fours": 1,
+                "sixes": 4,
+                "sr": 275
+            },
+            {
+                "playerName": "Shivam Mavi ",
+                "runs": 9,
+                "balls": 10,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 90
+            },
+            {
+                "playerName": "Kuldeep Yadav ",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/rajasthan-royals-vs-chennai-super-kings-4th-match-1216496/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/sunrisers-hyderabad-vs-royal-challengers-bangalore-3rd-match-1216534/full-scorecard",
+        "scorecard": [
+            "Royal Challengers Bangalore INNINGS (20 overs maximum)",
+            {
+                "playerName": "Devdutt Padikkal ",
+                "runs": 56,
+                "balls": 42,
+                "fours": 8,
+                "sixes": 0,
+                "sr": 133
+            },
+            {
+                "playerName": "Aaron Finch ",
+                "runs": 29,
+                "balls": 27,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 107
+            },
+            {
+                "playerName": "Virat Kohli (c)",
+                "runs": 14,
+                "balls": 13,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 107
+            },
+            {
+                "playerName": "AB de Villiers ",
+                "runs": 51,
+                "balls": 30,
+                "fours": 4,
+                "sixes": 2,
+                "sr": 170
+            },
+            {
+                "playerName": "Shivam Dube ",
+                "runs": 7,
+                "balls": 8,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 87
+            },
+            {
+                "playerName": "Josh Philippe †",
+                "runs": 1,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            "Sunrisers Hyderabad INNINGS (target: 164 runs from 20 overs)",
+            {
+                "playerName": "David Warner (c)",
+                "runs": 6,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "Jonny Bairstow †",
+                "runs": 61,
+                "balls": 43,
+                "fours": 6,
+                "sixes": 2,
+                "sr": 141
+            },
+            {
+                "playerName": "Manish Pandey ",
+                "runs": 34,
+                "balls": 33,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 103
+            },
+            {
+                "playerName": "Priyam Garg ",
+                "runs": 12,
+                "balls": 13,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 92
+            },
+            {
+                "playerName": "Vijay Shankar ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Abhishek Sharma ",
+                "runs": 7,
+                "balls": 4,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 175
+            },
+            {
+                "playerName": "Rashid Khan ",
+                "runs": 6,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 120
+            },
+            {
+                "playerName": "Bhuvneshwar Kumar ",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Sandeep Sharma ",
+                "runs": 9,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 150
+            },
+            {
+                "playerName": "Mitchell Marsh ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "T Natarajan ",
+                "runs": 3,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 75
+            }
+        ]
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/delhi-capitals-vs-kings-xi-punjab-2nd-match-1216493/full-scorecard",
+        "scorecard": []
+    },
+    {
+        "matchUrl": "https://www.espncricinfo.com//series/ipl-2020-21-1210595/mumbai-indians-vs-chennai-super-kings-1st-match-1216492/full-scorecard",
+        "scorecard": [
+            "Mumbai Indians INNINGS (20 overs maximum)",
+            {
+                "playerName": "Rohit Sharma (c)",
+                "runs": 12,
+                "balls": 10,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 120
+            },
+            {
+                "playerName": "Quinton de Kock †",
+                "runs": 33,
+                "balls": 20,
+                "fours": 5,
+                "sixes": 0,
+                "sr": 165
+            },
+            {
+                "playerName": "Suryakumar Yadav ",
+                "runs": 17,
+                "balls": 16,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 106
+            },
+            {
+                "playerName": "Saurabh Tiwary ",
+                "runs": 42,
+                "balls": 31,
+                "fours": 3,
+                "sixes": 1,
+                "sr": 135
+            },
+            {
+                "playerName": "Hardik Pandya ",
+                "runs": 14,
+                "balls": 10,
+                "fours": 0,
+                "sixes": 2,
+                "sr": 140
+            },
+            {
+                "playerName": "Kieron Pollard ",
+                "runs": 18,
+                "balls": 14,
+                "fours": 1,
+                "sixes": 1,
+                "sr": 128
+            },
+            {
+                "playerName": "Krunal Pandya ",
+                "runs": 3,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 100
+            },
+            {
+                "playerName": "James Pattinson ",
+                "runs": 11,
+                "balls": 8,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 137
+            },
+            {
+                "playerName": "Rahul Chahar ",
+                "runs": 2,
+                "balls": 4,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 50
+            },
+            {
+                "playerName": "Trent Boult ",
+                "runs": 0,
+                "balls": 1,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            },
+            {
+                "playerName": "Jasprit Bumrah ",
+                "runs": 5,
+                "balls": 3,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 166
+            },
+            "Chennai Super Kings INNINGS (target: 163 runs from 20 overs)",
+            {
+                "playerName": "Murali Vijay ",
+                "runs": 1,
+                "balls": 7,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 14
+            },
+            {
+                "playerName": "Shane Watson ",
+                "runs": 4,
+                "balls": 5,
+                "fours": 1,
+                "sixes": 0,
+                "sr": 80
+            },
+            {
+                "playerName": "Faf du Plessis ",
+                "runs": 58,
+                "balls": 44,
+                "fours": 6,
+                "sixes": 0,
+                "sr": 131
+            },
+            {
+                "playerName": "Ambati Rayudu ",
+                "runs": 71,
+                "balls": 48,
+                "fours": 6,
+                "sixes": 3,
+                "sr": 147
+            },
+            {
+                "playerName": "Ravindra Jadeja ",
+                "runs": 10,
+                "balls": 5,
+                "fours": 2,
+                "sixes": 0,
+                "sr": 200
+            },
+            {
+                "playerName": "Sam Curran ",
+                "runs": 18,
+                "balls": 6,
+                "fours": 1,
+                "sixes": 2,
+                "sr": 300
+            },
+            {
+                "playerName": "MS Dhoni (c)†",
+                "runs": 0,
+                "balls": 2,
+                "fours": 0,
+                "sixes": 0,
+                "sr": 0
+            }
+        ]
+    }
+]
